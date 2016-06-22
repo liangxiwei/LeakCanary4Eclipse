@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">LeakCanaryEclipse</string>
+    <string name="start_async_task">Start new AsyncTask</string>
+    <string name="helper_text">Start the async task, <b>rotate the screen</b> and wait for a bit. A
+    wild notification appears.</string>
+</resources>
